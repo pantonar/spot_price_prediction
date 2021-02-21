@@ -1,4 +1,5 @@
 # Analysis of the income pattern in US census data
+Detailed analysis in  electricity_price.ipynb
 
 ## Model choice - XGBoost
 XGBoost is an efficient implementation of gradient boosting for regression problems.
