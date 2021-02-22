@@ -1,4 +1,4 @@
-# Analysis of the income pattern in US census data
+# Predicting UK electricity spot price
 Detailed analysis in  electricity_price.ipynb
 
 ## Model choice - XGBoost
