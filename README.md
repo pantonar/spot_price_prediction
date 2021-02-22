@@ -11,7 +11,7 @@ Contrary to ARIMA models, XGBoost is agnostic about the underlying drivers of th
 As an ensemble methodd, XGBoost fits a set of decision trees where new trees fix errors of those trees that are already part of the model. Trees are added until no further improvements can be made to the model.
 
 * Target value: the 24h ahead spot power price
-* Features: the prior week of half hourly data of the spot price and all 16 variables with retained with the PCA explaining 9-% of the cumulative variance
+* Features: the prior week of half hourly data of the spot price and all 16 variables with retained with the PCA explaining 90% of the cumulative variance
 
 ## Results
 Display of the results on the test set for the month of March 2020
