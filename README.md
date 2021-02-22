@@ -19,7 +19,7 @@ Display of the results on the test set for the month of March 2020
 ![](test_actual_pred.png?raw=true)
 
 ## Performance assessment
-The RMSE achieved on the test set is still quite high at 29, where the average spot price oscilates around 45. As we can tell form training RMSE (though using the normalised values), it is steadily decreasing every training pass. Training it for longer would improive the fit substantially.
+The RMSE achieved on the test set is still quite high at 14, where the average spot price oscilates around 40. As we can tell form training RMSE (though using the normalised values), it is steadily decreasing every training pass. Training it for longer would improve the fit substantially.
 
 From the graph above, we see that the main issue is with the 'average' but that actually the variations - both postive and negative spikes have bee learnt very well!
 
